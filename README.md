@@ -7,7 +7,7 @@
 <p align="left">
 <a href="https://twitter.com/rintowh_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rintoharahap" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rintoharahap" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rintoharahap" height="30" width="40" /></a>
-<a href="https://instagram.com/rintowh__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rintowh__" height="30" width="40" /></a>
+<a href="https://instagram.com/rinto__h" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rintowh__" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -17,5 +17,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rintocode&show_icons=true&locale=en" alt="rintocode" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rintocode&" alt="rintocode" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rintocode.my.id&" alt="rintocode" /></p>
 

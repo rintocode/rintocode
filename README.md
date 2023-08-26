@@ -15,7 +15,4 @@
 <a href="https://github.com/rintocode/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=rintocode&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/rintocode/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=rintocode&repo=convoychat" />
-</a>
 

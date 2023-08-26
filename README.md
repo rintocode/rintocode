@@ -16,5 +16,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rintocode&show_icons=true&locale=en" alt="rintocode" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rintocode.my.id&" alt="rintocode" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rintocode&" alt="rintocode" /></p>
 

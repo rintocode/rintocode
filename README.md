@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Rinto Harahap</h1>
-<h3 align="center">I am a software engineer with experience in developing various applications using various programming languages ​​such as Java, PHP, Vue, React and Dart (Flutter). I have worked in the technology industry for several years and enjoy learning new things and am always looking for ways to improve my skills in this area. During my career, I have managed to develop several applications that are successful and provide benefits to users. I love to collaborate with the team to achieve common goals and improve product quality. I hope to contribute more in the future and continue to develop my skills in technology</h3>
+<h3 align="center">I am Software Engineer with experience in developing applications using PHP, Laravel,
+React, and React Native. Skilled in supporting critical banking systems including Payment Systems, Virtual Accounts,
+Middleware, and Core Banking (Temenos T24) . Proven track record in leading end-to-end development of the
+Issue Management System to production, ensuring stability and compliance with banking regulations. Strong in cross-
+team collaboration, technical analysis, and production issue resolution, with a continuous drive to enhance product quality and
+technical expertise</h3>
 
 <p align="left"> <a href="https://twitter.com/rintowh_" target="blank"><img src="https://img.shields.io/twitter/follow/rintowh_?logo=twitter&style=for-the-badge" alt="rintoharahap" /></a> </p>
 

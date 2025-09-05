@@ -6,9 +6,7 @@ Issue Management System to production, ensuring stability and compliance with ba
 team collaboration, technical analysis, and production issue resolution, with a continuous drive to enhance product quality and
 technical expertise</h3>
 
-<p align="left"> <a href="https://twitter.com/rintowh_" target="blank"><img src="https://img.shields.io/twitter/follow/rintowh_?logo=twitter&style=for-the-badge" alt="rintoharahap" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/rintowh_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rintoharahap" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rintoharahap" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rintoharahap" height="30" width="40" /></a>
